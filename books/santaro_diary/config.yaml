@@ -1,0 +1,5 @@
+title: "日記"
+summary: "日記です．"
+topics: ["markdown", "zenn", "diary"] # トピック（5つまで）
+published: true # falseだと下書き
+price: 0 # 有料の場合200〜5000
